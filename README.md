@@ -20,7 +20,9 @@ Projet iron man
 Lorsque j'ai qu'une machine qui interrog le DHCP elle peut ping le serevr. Des que j'ajoute une seconde machine, le server DHCP fait bien son travail il distribut une adresse du bon LAN au client. Cependant le ping ne fonctionne plus entre la machiine FreeBSD et le server DHCP tandis que mon autre machine cliente (Debian) ping le server DHCP.
 Les machines clientes n'ont pas accès au WEB surement a cause du masque du LAN que ma bbox fournit (addresse de classe C)
 
-
+09/11/2020
+Réinstallation des vm car mauvaise config réseau de vmware
+Le Ping fonctionne entre vm server dhcp et vm server WEB
 
  
 
