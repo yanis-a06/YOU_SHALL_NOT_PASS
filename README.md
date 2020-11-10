@@ -24,6 +24,8 @@ Les machines clientes n'ont pas accès au WEB surement a cause du masque du LAN 
 Réinstallation des vm car mauvaise config réseau de vmware
 Le Ping fonctionne entre vm server dhcp et vm server WEB
 
- 
+ 10/11/2020
+Recherches des méthodes pour permettre à à chaque réseau de communiquer avec les autres.
+Réunion avec mon binôme pour prévoir la suite du travail
 
 
