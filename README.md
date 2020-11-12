@@ -28,4 +28,5 @@ Le Ping fonctionne entre vm server dhcp et vm server WEB
 Recherches des méthodes pour permettre à à chaque réseau de communiquer avec les autres.
 Réunion avec mon binôme pour prévoir la suite du travail
 
-
+12/11/2020
+Server web fonctionne, data.php ne s'ouvre pas avec l'user backend 
